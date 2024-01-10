@@ -1,0 +1,3 @@
+table > thead:first-child > tr:first-child > th {
+    color: blue;
+}
